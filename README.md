@@ -3,7 +3,7 @@ General information about NOAA's GitHub Account
 
 Welcome to the official NOAA GitHub Account! NOAA's use of GitHub is intended to share code and content in the spirit of collaboration and open government. Repositories that were not created under the official NOAA account (@NOAAGov) but which are crontributed to by NOAA staff can be found under our "NOAA Affiliated Projects" repository. 
 
-What you will find on this page are many of NOAA's "scientific products", which may include code, data, or documentation of a scientific product according to NOAA's Scientific Integrity Policy. This policy defines such products as "Presentation of the results of scientific activities including the analysis, synthesis, compliation, or translation of scientific information and data into formats for the use of NOAA, the Department of Commerce, or the Nation.  
+What you will find on this page are many of NOAA's "scientific products", which may include NOAA software, design patterns, style guides, , code, data, or documentation related to scientific products and research as defined by NOAA's Scientific Integrity Policy. This policy defines such products as "Presentation of the results of scientific activities including the analysis, synthesis, compliation, or translation of scientific information and data into formats for the use of NOAA, the Department of Commerce, or the Nation. These products are provided in an open source manner in order to make content available to external developers to fork and build upon them. Developers can also help the project by commenting on their content with suggested improvements and questions. 
 
 All scientific products found through any official NOAA GitHub account are subject to the following disclaimer: 
 
